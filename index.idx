@@ -1,4 +1,5 @@
 min_slic3r_version = 1.42.0-alpha6
+0.1.3 faster speeds for vertex fine
 0.1.3 removed api key for vertex delta
 0.1.2 zonestar print profile is exclusive to zonestar printer now
 0.1.1 using variants feature
