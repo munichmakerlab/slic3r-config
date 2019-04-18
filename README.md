@@ -11,6 +11,7 @@ This repository contains the configurations for Slic3r Prusa Edition. These can 
 - close Slic3r for now
 - download this repository as a .zip (the green "clone or download" button)
 - open the .zip file next to the configuration folder
+- navigate to the copy_files folder in the .zip
 - copy "MuMaLab.idx" to the "cache" directory
 - copy "MuMaLab.ini" to the "vendor" directory
 - append the contents of "slic3r.ini_APPEND" to the end of your existing slic3r.ini
