@@ -1,4 +1,5 @@
 min_slic3r_version = 1.42.0-alpha6
+0.1.7 Ultimaker added
 0.1.6 static ip for vertex delta
 0.1.5 cleaned up filament list
 0.1.4 faster speeds for vertex fine
