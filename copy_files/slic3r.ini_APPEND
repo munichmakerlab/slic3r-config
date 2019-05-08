@@ -1,4 +1,5 @@
 [vendor:MuMaLab]
 model:VERTEX_DELTA = 0.4
 model:ZONESTARZ5 = 0.4
+model:ULTIMAKER = 0.4
 
