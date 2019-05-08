@@ -1,4 +1,5 @@
 min_slic3r_version = 1.42.0-alpha6
+0.1.9 Ultimaker PLA proper diameter
 0.1.8 no heatbed on ulti pla
 0.1.7 Ultimaker added
 0.1.6 static ip for vertex delta
