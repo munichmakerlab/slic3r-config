@@ -1,4 +1,5 @@
 min_slic3r_version = 1.42.0-alpha6
+0.1.12 refined x350 config
 0.1.11 dodgy X350 profile addded for testing
 0.1.10 Ultimaker with additives added
 0.1.9 Ultimaker PLA proper diameter
